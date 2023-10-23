@@ -21,31 +21,6 @@ If you have a Google account, you can easily use Google Colab to work with the r
 
 2. **Create a New Notebook**: Click on "New Notebook" to create a new Colab notebook.
 
-3. **Mount Google Drive**: To access your Google Drive from Colab, run the following code in a code cell in the notebook:
-
-   ```python
-   from google.colab import drive
-   drive.mount('/content/drive')
-   ```
-
-   Follow the link generated and enter the authorization code to mount your Google Drive.
-
-4. **Clone the Repository**: To clone the repository into your Google Drive, navigate to the directory where you want to clone it and run:
-
-   ```shell
-   !git clone <repository_url>
-   ```
-
-   Replace `<repository_url>` with the actual URL of your GitHub repository.
-
-Now you have the repository and its contents available in your Google Drive for easy access.
-
-**Accessing Code Files without mounting the drive**
-
-1. **Access Google Colab**: Go to [Google Colab](https://colab.research.google.com/) and make sure you're logged into your Google account.
-
-2. **Create a New Notebook**: Click on "New Notebook" to create a new Colab notebook.
-
 3. **Upload Files from GitHub**:
 
    - In your Colab notebook, click on "File" in the top-left corner.
