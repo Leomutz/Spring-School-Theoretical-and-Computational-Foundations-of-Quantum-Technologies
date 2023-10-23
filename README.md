@@ -1,2 +1,3 @@
 # Spring-School-Theoretical-and-Computational-Foundations-of-Quantum-Technologies
-This 
+
+Welcome to the official GitHub repository for our Quantum Technology Spring School. This repository hosts the code for the lectures and serves as a comprehensive resource hub for the theoretical and computational foundations of quantum technology. Additionally, you can find essential information about our exciting QChallenge, a unique opportunity to test your quantum knowledge and skills. Join us on this educational journey as we delve into the intricate world of quantum computing, machine learning for quantum physics, quantum communication and quantum machine learning.
