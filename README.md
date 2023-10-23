@@ -56,4 +56,4 @@ Google Colab makes it simple to install packages within your notebook using the 
 
 3. **Execute the Cell**: Press Shift+Enter to run the code cell. Google Colab will execute the command, and the package will be installed.
 
-You can repeat these steps to install any additional packages you need for your quantum technology projects within Google Colab. Enjoy your coding and quantum explorations!
+You can repeat these steps to install any additional packages you need for your quantum technology projects within Google Colab. Enjoy your coding and quantum explorations! 
