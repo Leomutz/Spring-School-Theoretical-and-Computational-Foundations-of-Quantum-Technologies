@@ -40,6 +40,30 @@ If you have a Google account, you can easily use Google Colab to work with the r
 
 Now you have the repository and its contents available in your Google Drive for easy access.
 
+**Accessing Code Files without mounting the drive**
+
+1. **Access Google Colab**: Go to [Google Colab](https://colab.research.google.com/) and make sure you're logged into your Google account.
+
+2. **Create a New Notebook**: Click on "New Notebook" to create a new Colab notebook.
+
+3. **Upload Files from GitHub**:
+
+   - In your Colab notebook, click on "File" in the top-left corner.
+
+   - Select "Open...".
+
+   - In the dialog box that appears, go to the "GitHub" tab.
+
+   - Enter the URL of the GitHub repository or the specific file you want to upload.
+
+   - You may need to grant Colab access to your GitHub account.
+
+   - Once you've entered the URL, you can navigate the GitHub repository or select the specific file you want.
+
+   - Click "OK" or "Open" to upload the file to your Colab environment.
+
+This will allow you to directly import files or notebooks from a GitHub repository into your Google Colab environment, making it easy to work with the content from the repository in your notebook.
+
 **Installing Packages in Google Colab using `!` and `pip`**
 
 Google Colab makes it simple to install packages within your notebook using the `!` symbol and the `pip` package manager. Here's how:
@@ -57,3 +81,11 @@ Google Colab makes it simple to install packages within your notebook using the 
 3. **Execute the Cell**: Press Shift+Enter to run the code cell. Google Colab will execute the command, and the package will be installed.
 
 You can repeat these steps to install any additional packages you need for your quantum technology projects within Google Colab. Enjoy your coding and quantum explorations! 
+
+
+
+
+
+
+
+
